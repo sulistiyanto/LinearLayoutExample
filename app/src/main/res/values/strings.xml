@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LinearLayout Example</string>
+    <string name="first">Pertama</string>
+    <string name="second">Kedua</string>
+    <string name="third">Ketiga</string>
+    <string name="vertical">Vertikal</string>
+    <string name="horizontal">Horisontal</string>
+    <string name="thinks">Apa yang anda pikirkan?</string>
+</resources>
